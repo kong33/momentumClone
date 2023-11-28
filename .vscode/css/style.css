@@ -1,0 +1,11 @@
+/*어떤 대상에 이 class 이름을 부여하면 걘 사라짐*/
+.hidden{
+    display: none;
+}
+.hidden button{
+    position: absolute;
+    top: 50%;
+    left:50%;
+    transform:translate(-50%, -50%);
+}
+
